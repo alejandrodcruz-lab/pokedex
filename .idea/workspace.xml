@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a15e4b63-48c6-4a8e-8481-7acfd4ef2068" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j6GyHJkHnORhnDlWggEifE3TAj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Pokedex-AlejandroCruz" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Pokedex-AlejandroCruz\__DUMP" />
+      <recent name="C:\xampp\htdocs\Pokedex-AlejandroCruz" />
+      <recent name="C:\xampp\htdocs\Pokedex-AlejandroCruz\recursos\db" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a15e4b63-48c6-4a8e-8481-7acfd4ef2068" name="Default Changelist" comment="" />
+      <created>1603117380614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603117380614</updated>
+      <workItem from="1603117381754" duration="110226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="867" y="284" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603138165490">
+      <screen x="0" y="0" width="2552" height="1253" />
+    </state>
+    <state x="867" y="284" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2552.1253@0.0.2552.1253" timestamp="1603138165490" />
+    <state x="838" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603376190183">
+      <screen x="0" y="0" width="2166" height="1124" />
+    </state>
+    <state x="838" y="334" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2166.1124@0.0.2166.1124" timestamp="1603376190183" />
+    <state x="926" y="372" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2394.1253@0.0.2394.1253" timestamp="1603322078578" />
+    <state x="1040" y="549" key="NewPhpFileDialog" timestamp="1603343707221">
+      <screen x="0" y="0" width="2394" height="1253" />
+    </state>
+    <state x="1040" y="549" key="NewPhpFileDialog/0.0.2394.1253@0.0.2394.1253" timestamp="1603343707221" />
+    <state x="1096" y="549" key="NewPhpFileDialog/0.0.2522.1253@0.0.2522.1253" timestamp="1603243736114" />
+    <state x="1109" y="549" key="NewPhpFileDialog/0.0.2552.1253@0.0.2552.1253" timestamp="1603220660370" />
+    <state x="874" y="294" key="run.anything.popup" timestamp="1603335965677">
+      <screen x="0" y="0" width="2394" height="1253" />
+    </state>
+    <state x="874" y="294" key="run.anything.popup/0.0.2394.1253@0.0.2394.1253" timestamp="1603335965677" />
+    <state x="921" y="294" key="run.anything.popup/0.0.2522.1253@0.0.2522.1253" timestamp="1603240750396" />
+    <state x="932" y="294" key="run.anything.popup/0.0.2552.1253@0.0.2552.1253" timestamp="1603216625502" />
+    <state x="881" y="278" width="672" height="678" key="search.everywhere.popup" timestamp="1603342893451">
+      <screen x="0" y="0" width="2394" height="1253" />
+    </state>
+    <state x="881" y="278" width="672" height="678" key="search.everywhere.popup/0.0.2394.1253@0.0.2394.1253" timestamp="1603342893451" />
+    <state x="939" y="278" width="672" height="678" key="search.everywhere.popup/0.0.2552.1253@0.0.2552.1253" timestamp="1603119498552" />
+  </component>
+</project>
